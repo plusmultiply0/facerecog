@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">facerecog</string>
+    <string name="record_button">录入信息</string>
+    <string name="daka_button">场所打卡</string>
+    <string name="kaoqin_button">上课考勤</string>
+    <string name="sushe_button">宿舍识别</string>
+    <string name="history_button">历史信息</string>
+    <string name="take_photo">开始录入</string>
+    <string name="text">录入结果</string>
+    <string name="recognition">开始识别</string>
+    <string name="recogResult">识别结果</string>
+</resources>
